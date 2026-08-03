@@ -1,0 +1,6 @@
+# Install this file from PyTorch's CPU wheel index; see AGENTS.md.
+# TensorFlow currently has no Python 3.14 wheel, so PyTorch is the default
+# deep-learning framework for this workspace.
+torch==2.13.0+cpu
+torchvision==0.28.0+cpu
+
