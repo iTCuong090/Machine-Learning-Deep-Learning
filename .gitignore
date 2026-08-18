@@ -27,3 +27,6 @@ checkpoints/
 *.ckpt
 *.pt
 *.pth
+
+# Local tabular datasets and generated submissions
+*.csv
